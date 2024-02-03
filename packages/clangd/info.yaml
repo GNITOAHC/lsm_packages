@@ -1,5 +1,5 @@
 name: clangd
-description: clangd understands your C++ code and adds smart features to your editor: code completion, compile errors, go-to-definition and more.
+description: clangd understands your C++ code and adds smart features to your editor including code completion, compile errors, go-to-definition and more.
 homepage: https://clangd.llvm.org
 licenses:
   - Apache-2.0
